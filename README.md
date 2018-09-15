@@ -1,24 +1,10 @@
-# README
+# Youk
+Rails 5 Api CRM
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# config
+create your config database and credentials from these file:
+`storage.sample.yml`
+`database.sample.yml`
+`credentials.sample.yml.enc`
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+you can remove sample from name of file and use it.
