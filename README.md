@@ -5,6 +5,9 @@ Rails 5 Api CRM
 create your config database and credentials from these file:
 `storage.sample.yml`
 `database.sample.yml`
-`credentials.sample.yml.enc`
 
-you can remove sample from name of file and use it.
+you can remove sample from name of files and use it.
+
+# credentials
+use this command to create credentials
+`EDITOR="mate --wait" bin/rails credentials:edit`
